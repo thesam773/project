@@ -9,5 +9,3 @@ function fool2(){
 function fool3(){
 	console.log("fool3");
 }
-
-Bad code
