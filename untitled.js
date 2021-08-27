@@ -9,3 +9,5 @@ function fool2(){
 function fool3(){
 	console.log("fool3");
 }
+
+good code good code good code good code good code 
