@@ -10,4 +10,4 @@ function fool3(){
 	console.log("fool3");
 }
 
-Bad code
+Bad codeBad codeBad codeBad code
